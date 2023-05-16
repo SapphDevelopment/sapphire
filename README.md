@@ -1,8 +1,8 @@
-<h1 align="left">Hi 👋, I'm DuckoDas</h1>
+<h1 align="left">Hi 👋, Here is another project by Sapphire Devs!</h1>
 
 ### Sapphire Bot
 
-- I decided to do something different and just made a simple sapphire bot
+- I decided to do something different and just made a simple sapphire framework bot
 
 ### Made With
 - [Node.js](https://nodejs.org)
@@ -13,3 +13,9 @@
 
 - [Guilded Ref](https://www.guilded.gg?r=o4PyG3Zd)
 - [Discord](https://discord.gg/TKz7BMwEap)
+
+## **Contributors**
+
+<a href="https://github.com/sapphiredevs/discord/graphs/contributors">
+  <img src="https://stg.contrib.rocks/image?repo=sapphiredevs/discord" />
+</a>
