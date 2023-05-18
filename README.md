@@ -12,7 +12,8 @@
 ### Join my socials!
 
 - [Guilded Ref](https://www.guilded.gg?r=o4PyG3Zd)
-- [Discord](https://discord.gg/TKz7BMwEap)
+- [Discord](https://discord.gg/rTT52gJC3J)
+- [Personal Discord](https://discord.gg/TKz7BMwEap)
 
 ## **Contributors**
 
